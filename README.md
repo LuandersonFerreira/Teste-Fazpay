@@ -26,7 +26,7 @@ Para usar <Sistema>, siga estas etapas:
 dentro da raiz, rode o seguinte comando
 
 ```
-<go run main.go>
+go run main.go
 ```
 Aqui você já estará com o BackEnd rodando na sua máquina na porta 9000.
 
