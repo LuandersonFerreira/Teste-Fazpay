@@ -13,6 +13,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - `docker pull postgres:14.11-alpine`
 - `docker run -d --name fazpay-api -p 5432:5432 -e POSTGRES_PASSWORD=1234 postgres:14.11-alpine`
 - `docker exec -it fazpay psql -U postgres`
+- [Após isso você pode usar o arquivo neste link para realizar o backup do banco de dados].(https://drive.google.com/drive/folders/1YhKHXQMOH3X6WoSPL_L6k3WLrPkkD14n?usp=drive_link)
 
 ## 🚀 Instalando <Projeto>
 
